@@ -18,6 +18,10 @@
     margin-top: 60px;
 }
 
+.post-media img {
+    margin: 0 auto;
+}
+
 .post-content {
     margin-top: 60px;
     line-height: 1.9;
